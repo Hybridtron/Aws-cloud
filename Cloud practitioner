@@ -1,0 +1,13 @@
+<h2>Services and Technologies Used</h2>
+Aws
+puTTY
+VPC (public and private subnets)
+Security groups
+Ec2 instances
+Auto scaling group
+NAT gateways
+RDS
+Applications load balancer
+Route 53
+Certificate Manager
+Efs
